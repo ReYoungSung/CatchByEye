@@ -1,6 +1,4 @@
-# CatchByEye
- 
-EyeWillCatch
+# EyeWillCatch
 
 한국컴퓨터그래픽스학회 KCGS 2023
 
